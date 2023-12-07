@@ -16,12 +16,11 @@ YOLOv5 for YCB-V object detection:
 13. "024_bowl"
 14. "025_mug"
 15. "035_power_drill"
-16. "036_wood_block"
-17. "037_scissors"
-18. "040_large_marker"
-19. "051_large_clamp"
-20. "052_extra_large_clamp"
-21. "061_foam_brick"
+16. "037_scissors"
+17. "040_large_marker"
+18. "051_large_clamp"
+19. "052_extra_large_clamp"
+20. "061_foam_brick"
 
 ## Use YCB-V weights:
 * `wget -O yolov5_ycbv_weights.zip "https://owncloud.tuwien.ac.at/index.php/s/lbnwdUAR3uSpKOj/download"`
