@@ -1,4 +1,4 @@
-path: ../yolov8/datasets/ycb_ichores  # dataset root dir
+path: ./datasets/ycb_ichores  # dataset root dir
 train:  # train images (relative to 'path') 128 images
     - train
 val:   test
@@ -23,8 +23,6 @@ names:
     14: "017_orange"  # Add your coordinates here
     15: "018_plum"  # Add your coordinates here
     16: "021_bleach_cleanser"  # Add your coordinates here
-    17: "022_windex_bottle"  # Add your coordinates here
-    18: "023_wine_glass"  # Add your coordinates here
-    19: "024_bowl"  # Add your coordinates here
-    20: "025_mug"  # Add your coordinates here
-    21: "029_plate"  # Add your coordinates here
+    17: "024_bowl"  # Add your coordinates here
+    18: "025_mug"  # Add your coordinates here
+    19: "029_plate"  # Add your coordinates here
